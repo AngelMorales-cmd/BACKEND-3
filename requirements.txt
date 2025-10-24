@@ -33,4 +33,3 @@ seaborn==0.13.0
 
 # Logging y monitoreo
 colorlog==6.8.0
-
